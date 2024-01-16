@@ -1,8 +1,10 @@
 const { default: puppeteer } = require("puppeteer");
 
+const fs = require("fs");
+
 const webScraper = async () => {
   const browser = await puppeteer.launch({
-    headless: false, // no browser view
+    headless: true, // no browser view
     defaultViewport: null, // ensure full w/h
   });
 
@@ -14,9 +16,11 @@ const webScraper = async () => {
 
   let i = 0;
 
-  const allQuotes = [];
+  const quotesObject = {
+    table: [],
+  };
 
-  while (i < 3) {
+  while (i < 5) {
     const quotes = await page.evaluate(() => {
       const quoteList = Array.from(document.querySelectorAll(".quote"));
       const textAndAuthor = quoteList.map((e) => {
@@ -26,12 +30,23 @@ const webScraper = async () => {
       });
       return textAndAuthor;
     });
-    allQuotes.push(quotes);
+    allQuotes.push(...quotes);
+    quotesObject.table.push(...quotes);
+
     i++;
     await page.click(".pager > .next > a");
   }
+  console.log(quotesObject);
 
-  console.log(allQuotes);
+  const quotesJSON = JSON.stringify(quotesObject);
+
+  fs.writeFile("quotesJSON.json", quotesJSON, "utf-8", (err) => {
+    if (err) throw err;
+    console.log(">>>> JSON file Complete");
+  });
+
+  // Needed even in headless mode to close the function
+  await browser.close();
 };
 
 webScraper();
