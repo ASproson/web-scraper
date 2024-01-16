@@ -1,7 +1,9 @@
 # Web Scraper
 A simple web scraper built using [NodeJS](https://nodejs.org/api/fs.html#fspromiseswritefilefile-data-options) and [Puppeteer](https://pptr.dev/)
 
-`quotesScraper.js` uses [http://quotes.toscrape.com/](http://quotes.toscrape.com/) as a learning experience
+### QuotesScraper
+
+[`quotesScraper.js`](https://github.com/ASproson/web-scraper/blob/main/quotesScraper.js) uses [http://quotes.toscrape.com/](http://quotes.toscrape.com/) as a learning experience
 
 ### PokeScraper
 
