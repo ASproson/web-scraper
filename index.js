@@ -13,10 +13,14 @@ const webScraper = async () => {
   });
 
   const quotes = await page.evaluate(() => {
-    const quote = document.querySelector(".quote");
-    const text = quote.querySelector(".text").innerText;
-    const author = quote.querySelector(".author").innerText;
-    return { text, author };
+    const quoteList = Array.from(document.querySelectorAll(".quote"));
+    const textAndAuthor = quoteList.map((e) => {
+      const text = e.querySelector(".text").innerText;
+      const author = e.querySelector(".author").innerText;
+      return { text, author };
+    });
+
+    return textAndAuthor;
   });
 
   console.log(quotes);
