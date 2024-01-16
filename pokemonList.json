@@ -2,7 +2,7 @@
   "table": [
     {
       "id": "#0001",
-      "image": "/swordshield/pokemon/small/001.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/001.png",
       "name": "Bulbasaur",
       "types": [
         "grass",
@@ -23,7 +23,7 @@
     },
     {
       "id": "#0002",
-      "image": "/swordshield/pokemon/small/002.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/002.png",
       "name": "Ivysaur",
       "types": [
         "grass",
@@ -44,7 +44,7 @@
     },
     {
       "id": "#0003",
-      "image": "/swordshield/pokemon/small/003.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/003.png",
       "name": "Venusaur",
       "types": [
         "grass",
@@ -65,7 +65,7 @@
     },
     {
       "id": "#0004",
-      "image": "/swordshield/pokemon/small/004.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/004.png",
       "name": "Charmander",
       "types": [
         "fire"
@@ -85,7 +85,7 @@
     },
     {
       "id": "#0005",
-      "image": "/swordshield/pokemon/small/005.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/005.png",
       "name": "Charmeleon",
       "types": [
         "fire"
@@ -105,7 +105,7 @@
     },
     {
       "id": "#0006",
-      "image": "/swordshield/pokemon/small/006.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/006.png",
       "name": "Charizard",
       "types": [
         "fire",
@@ -126,7 +126,7 @@
     },
     {
       "id": "#0007",
-      "image": "/swordshield/pokemon/small/007.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/007.png",
       "name": "Squirtle",
       "types": [
         "water"
@@ -146,7 +146,7 @@
     },
     {
       "id": "#0008",
-      "image": "/swordshield/pokemon/small/008.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/008.png",
       "name": "Wartortle",
       "types": [
         "water"
@@ -166,7 +166,7 @@
     },
     {
       "id": "#0009",
-      "image": "/swordshield/pokemon/small/009.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/009.png",
       "name": "Blastoise",
       "types": [
         "water"
@@ -186,7 +186,7 @@
     },
     {
       "id": "#0010",
-      "image": "/swordshield/pokemon/small/010.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/010.png",
       "name": "Caterpie",
       "types": [
         "bug"
@@ -206,7 +206,7 @@
     },
     {
       "id": "#0011",
-      "image": "/swordshield/pokemon/small/011.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/011.png",
       "name": "Metapod",
       "types": [
         "bug"
@@ -225,7 +225,7 @@
     },
     {
       "id": "#0012",
-      "image": "/swordshield/pokemon/small/012.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/012.png",
       "name": "Butterfree",
       "types": [
         "bug",
@@ -246,7 +246,7 @@
     },
     {
       "id": "#0013",
-      "image": "/swordshield/pokemon/small/013.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/013.png",
       "name": "Weedle",
       "types": [
         "bug",
@@ -267,7 +267,7 @@
     },
     {
       "id": "#0014",
-      "image": "/swordshield/pokemon/small/014.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/014.png",
       "name": "Kakuna",
       "types": [
         "bug",
@@ -287,7 +287,7 @@
     },
     {
       "id": "#0015",
-      "image": "/swordshield/pokemon/small/015.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/015.png",
       "name": "Beedrill",
       "types": [
         "bug",
@@ -308,7 +308,7 @@
     },
     {
       "id": "#0016",
-      "image": "/swordshield/pokemon/small/016.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/016.png",
       "name": "Pidgey",
       "types": [
         "normal",
@@ -330,7 +330,7 @@
     },
     {
       "id": "#0017",
-      "image": "/swordshield/pokemon/small/017.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/017.png",
       "name": "Pidgeotto",
       "types": [
         "normal",
@@ -352,7 +352,7 @@
     },
     {
       "id": "#0018",
-      "image": "/swordshield/pokemon/small/018.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/018.png",
       "name": "Pidgeot",
       "types": [
         "normal",
@@ -374,7 +374,7 @@
     },
     {
       "id": "#0019",
-      "image": "/swordshield/pokemon/small/019.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/019.png",
       "name": "Rattata",
       "types": [
         "normal"
@@ -395,7 +395,7 @@
     },
     {
       "id": "#0020",
-      "image": "/swordshield/pokemon/small/020.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/020.png",
       "name": "Raticate",
       "types": [
         "normal"
@@ -416,7 +416,7 @@
     },
     {
       "id": "#0021",
-      "image": "/swordshield/pokemon/small/021.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/021.png",
       "name": "Spearow",
       "types": [
         "normal",
@@ -437,7 +437,7 @@
     },
     {
       "id": "#0022",
-      "image": "/swordshield/pokemon/small/022.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/022.png",
       "name": "Fearow",
       "types": [
         "normal",
@@ -458,7 +458,7 @@
     },
     {
       "id": "#0023",
-      "image": "/swordshield/pokemon/small/023.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/023.png",
       "name": "Ekans",
       "types": [
         "poison"
@@ -479,7 +479,7 @@
     },
     {
       "id": "#0024",
-      "image": "/swordshield/pokemon/small/024.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/024.png",
       "name": "Arbok",
       "types": [
         "poison"
@@ -500,7 +500,7 @@
     },
     {
       "id": "#0025",
-      "image": "/swordshield/pokemon/small/025.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/025.png",
       "name": "Pikachu",
       "types": [
         "electric"
@@ -520,7 +520,7 @@
     },
     {
       "id": "#0026",
-      "image": "/swordshield/pokemon/small/026.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/026.png",
       "name": "Raichu",
       "types": [
         "electric"
@@ -540,7 +540,7 @@
     },
     {
       "id": "#0027",
-      "image": "/swordshield/pokemon/small/027.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/027.png",
       "name": "Sandshrew",
       "types": [
         "ground"
@@ -560,7 +560,7 @@
     },
     {
       "id": "#0028",
-      "image": "/swordshield/pokemon/small/028.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/028.png",
       "name": "Sandslash",
       "types": [
         "ground"
@@ -580,7 +580,7 @@
     },
     {
       "id": "#0029",
-      "image": "/swordshield/pokemon/small/029.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/029.png",
       "name": "Nidoran♀",
       "types": [
         "poison"
@@ -601,7 +601,7 @@
     },
     {
       "id": "#0030",
-      "image": "/swordshield/pokemon/small/030.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/030.png",
       "name": "Nidorina",
       "types": [
         "poison"
@@ -622,7 +622,7 @@
     },
     {
       "id": "#0031",
-      "image": "/swordshield/pokemon/small/031.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/031.png",
       "name": "Nidoqueen",
       "types": [
         "poison",
@@ -644,7 +644,7 @@
     },
     {
       "id": "#0032",
-      "image": "/swordshield/pokemon/small/032.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/032.png",
       "name": "Nidoran♂",
       "types": [
         "poison"
@@ -665,7 +665,7 @@
     },
     {
       "id": "#0033",
-      "image": "/swordshield/pokemon/small/033.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/033.png",
       "name": "Nidorino",
       "types": [
         "poison"
@@ -686,7 +686,7 @@
     },
     {
       "id": "#0034",
-      "image": "/swordshield/pokemon/small/034.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/034.png",
       "name": "Nidoking",
       "types": [
         "poison",
@@ -708,7 +708,7 @@
     },
     {
       "id": "#0035",
-      "image": "/swordshield/pokemon/small/035.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/035.png",
       "name": "Clefairy",
       "types": [
         "fairy"
@@ -729,7 +729,7 @@
     },
     {
       "id": "#0036",
-      "image": "/swordshield/pokemon/small/036.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/036.png",
       "name": "Clefable",
       "types": [
         "fairy"
@@ -750,7 +750,7 @@
     },
     {
       "id": "#0037",
-      "image": "/swordshield/pokemon/small/037.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/037.png",
       "name": "Vulpix",
       "types": [
         "fire"
@@ -770,7 +770,7 @@
     },
     {
       "id": "#0038",
-      "image": "/swordshield/pokemon/small/038.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/038.png",
       "name": "Ninetales",
       "types": [
         "fire"
@@ -790,7 +790,7 @@
     },
     {
       "id": "#0039",
-      "image": "/swordshield/pokemon/small/039.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/039.png",
       "name": "Jigglypuff",
       "types": [
         "normal",
@@ -812,7 +812,7 @@
     },
     {
       "id": "#0040",
-      "image": "/swordshield/pokemon/small/040.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/040.png",
       "name": "Wigglytuff",
       "types": [
         "normal",
@@ -834,7 +834,7 @@
     },
     {
       "id": "#0041",
-      "image": "/swordshield/pokemon/small/041.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/041.png",
       "name": "Zubat",
       "types": [
         "poison",
@@ -855,7 +855,7 @@
     },
     {
       "id": "#0042",
-      "image": "/swordshield/pokemon/small/042.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/042.png",
       "name": "Golbat",
       "types": [
         "poison",
@@ -876,7 +876,7 @@
     },
     {
       "id": "#0043",
-      "image": "/swordshield/pokemon/small/043.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/043.png",
       "name": "Oddish",
       "types": [
         "grass",
@@ -897,7 +897,7 @@
     },
     {
       "id": "#0044",
-      "image": "/swordshield/pokemon/small/044.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/044.png",
       "name": "Gloom",
       "types": [
         "grass",
@@ -918,7 +918,7 @@
     },
     {
       "id": "#0045",
-      "image": "/swordshield/pokemon/small/045.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/045.png",
       "name": "Vileplume",
       "types": [
         "grass",
@@ -939,7 +939,7 @@
     },
     {
       "id": "#0046",
-      "image": "/swordshield/pokemon/small/046.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/046.png",
       "name": "Paras",
       "types": [
         "bug",
@@ -961,7 +961,7 @@
     },
     {
       "id": "#0047",
-      "image": "/swordshield/pokemon/small/047.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/047.png",
       "name": "Parasect",
       "types": [
         "bug",
@@ -983,7 +983,7 @@
     },
     {
       "id": "#0048",
-      "image": "/swordshield/pokemon/small/048.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/048.png",
       "name": "Venonat",
       "types": [
         "bug",
@@ -1005,7 +1005,7 @@
     },
     {
       "id": "#0049",
-      "image": "/swordshield/pokemon/small/049.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/049.png",
       "name": "Venomoth",
       "types": [
         "bug",
@@ -1027,7 +1027,7 @@
     },
     {
       "id": "#0050",
-      "image": "/swordshield/pokemon/small/050.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/050.png",
       "name": "Diglett",
       "types": [
         "ground"
@@ -1048,7 +1048,7 @@
     },
     {
       "id": "#0051",
-      "image": "/swordshield/pokemon/small/051.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/051.png",
       "name": "Dugtrio",
       "types": [
         "ground"
@@ -1069,7 +1069,7 @@
     },
     {
       "id": "#0052",
-      "image": "/swordshield/pokemon/small/052.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/052.png",
       "name": "Meowth",
       "types": [
         "normal"
@@ -1090,7 +1090,7 @@
     },
     {
       "id": "#0053",
-      "image": "/swordshield/pokemon/small/053.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/053.png",
       "name": "Persian",
       "types": [
         "normal"
@@ -1111,7 +1111,7 @@
     },
     {
       "id": "#0054",
-      "image": "/swordshield/pokemon/small/054.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/054.png",
       "name": "Psyduck",
       "types": [
         "water"
@@ -1132,7 +1132,7 @@
     },
     {
       "id": "#0055",
-      "image": "/swordshield/pokemon/small/055.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/055.png",
       "name": "Golduck",
       "types": [
         "water"
@@ -1153,7 +1153,7 @@
     },
     {
       "id": "#0056",
-      "image": "/swordshield/pokemon/small/056.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/056.png",
       "name": "Mankey",
       "types": [
         "fighting"
@@ -1174,7 +1174,7 @@
     },
     {
       "id": "#0057",
-      "image": "/swordshield/pokemon/small/057.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/057.png",
       "name": "Primeape",
       "types": [
         "fighting"
@@ -1195,7 +1195,7 @@
     },
     {
       "id": "#0058",
-      "image": "/swordshield/pokemon/small/058.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/058.png",
       "name": "Growlithe",
       "types": [
         "fire"
@@ -1216,7 +1216,7 @@
     },
     {
       "id": "#0059",
-      "image": "/swordshield/pokemon/small/059.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/059.png",
       "name": "Arcanine",
       "types": [
         "fire"
@@ -1237,7 +1237,7 @@
     },
     {
       "id": "#0060",
-      "image": "/swordshield/pokemon/small/060.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/060.png",
       "name": "Poliwag",
       "types": [
         "water"
@@ -1258,7 +1258,7 @@
     },
     {
       "id": "#0061",
-      "image": "/swordshield/pokemon/small/061.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/061.png",
       "name": "Poliwhirl",
       "types": [
         "water"
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "#0062",
-      "image": "/swordshield/pokemon/small/062.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/062.png",
       "name": "Poliwrath",
       "types": [
         "water",
@@ -1301,7 +1301,7 @@
     },
     {
       "id": "#0063",
-      "image": "/swordshield/pokemon/small/063.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/063.png",
       "name": "Abra",
       "types": [
         "psychic"
@@ -1322,7 +1322,7 @@
     },
     {
       "id": "#0064",
-      "image": "/swordshield/pokemon/small/064.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/064.png",
       "name": "Kadabra",
       "types": [
         "psychic"
@@ -1343,7 +1343,7 @@
     },
     {
       "id": "#0065",
-      "image": "/swordshield/pokemon/small/065.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/065.png",
       "name": "Alakazam",
       "types": [
         "psychic"
@@ -1364,7 +1364,7 @@
     },
     {
       "id": "#0066",
-      "image": "/swordshield/pokemon/small/066.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/066.png",
       "name": "Machop",
       "types": [
         "fighting"
@@ -1385,7 +1385,7 @@
     },
     {
       "id": "#0067",
-      "image": "/swordshield/pokemon/small/067.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/067.png",
       "name": "Machoke",
       "types": [
         "fighting"
@@ -1406,7 +1406,7 @@
     },
     {
       "id": "#0068",
-      "image": "/swordshield/pokemon/small/068.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/068.png",
       "name": "Machamp",
       "types": [
         "fighting"
@@ -1427,7 +1427,7 @@
     },
     {
       "id": "#0069",
-      "image": "/swordshield/pokemon/small/069.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/069.png",
       "name": "Bellsprout",
       "types": [
         "grass",
@@ -1448,7 +1448,7 @@
     },
     {
       "id": "#0070",
-      "image": "/swordshield/pokemon/small/070.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/070.png",
       "name": "Weepinbell",
       "types": [
         "grass",
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "#0071",
-      "image": "/swordshield/pokemon/small/071.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/071.png",
       "name": "Victreebel",
       "types": [
         "grass",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "#0072",
-      "image": "/swordshield/pokemon/small/072.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/072.png",
       "name": "Tentacool",
       "types": [
         "water",
@@ -1512,7 +1512,7 @@
     },
     {
       "id": "#0073",
-      "image": "/swordshield/pokemon/small/073.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/073.png",
       "name": "Tentacruel",
       "types": [
         "water",
@@ -1534,7 +1534,7 @@
     },
     {
       "id": "#0074",
-      "image": "/swordshield/pokemon/small/074.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/074.png",
       "name": "Geodude",
       "types": [
         "rock",
@@ -1556,7 +1556,7 @@
     },
     {
       "id": "#0075",
-      "image": "/swordshield/pokemon/small/075.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/075.png",
       "name": "Graveler",
       "types": [
         "rock",
@@ -1578,7 +1578,7 @@
     },
     {
       "id": "#0076",
-      "image": "/swordshield/pokemon/small/076.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/076.png",
       "name": "Golem",
       "types": [
         "rock",
@@ -1600,7 +1600,7 @@
     },
     {
       "id": "#0077",
-      "image": "/swordshield/pokemon/small/077.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/077.png",
       "name": "Ponyta",
       "types": [
         "fire"
@@ -1621,7 +1621,7 @@
     },
     {
       "id": "#0078",
-      "image": "/swordshield/pokemon/small/078.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/078.png",
       "name": "Rapidash",
       "types": [
         "fire"
@@ -1642,7 +1642,7 @@
     },
     {
       "id": "#0079",
-      "image": "/swordshield/pokemon/small/079.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/079.png",
       "name": "Slowpoke",
       "types": [
         "water",
@@ -1664,7 +1664,7 @@
     },
     {
       "id": "#0080",
-      "image": "/swordshield/pokemon/small/080.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/080.png",
       "name": "Slowbro",
       "types": [
         "water",
@@ -1686,7 +1686,7 @@
     },
     {
       "id": "#0081",
-      "image": "/swordshield/pokemon/small/081.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/081.png",
       "name": "Magnemite",
       "types": [
         "electric",
@@ -1708,7 +1708,7 @@
     },
     {
       "id": "#0082",
-      "image": "/swordshield/pokemon/small/082.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/082.png",
       "name": "Magneton",
       "types": [
         "electric",
@@ -1730,7 +1730,7 @@
     },
     {
       "id": "#0083",
-      "image": "/swordshield/pokemon/small/083.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/083.png",
       "name": "Farfetch'd",
       "types": [
         "normal",
@@ -1752,7 +1752,7 @@
     },
     {
       "id": "#0084",
-      "image": "/swordshield/pokemon/small/084.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/084.png",
       "name": "Doduo",
       "types": [
         "normal",
@@ -1774,7 +1774,7 @@
     },
     {
       "id": "#0085",
-      "image": "/swordshield/pokemon/small/085.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/085.png",
       "name": "Dodrio",
       "types": [
         "normal",
@@ -1796,7 +1796,7 @@
     },
     {
       "id": "#0086",
-      "image": "/swordshield/pokemon/small/086.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/086.png",
       "name": "Seel",
       "types": [
         "water"
@@ -1817,7 +1817,7 @@
     },
     {
       "id": "#0087",
-      "image": "/swordshield/pokemon/small/087.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/087.png",
       "name": "Dewgong",
       "types": [
         "water",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": "#0088",
-      "image": "/swordshield/pokemon/small/088.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/088.png",
       "name": "Grimer",
       "types": [
         "poison"
@@ -1860,7 +1860,7 @@
     },
     {
       "id": "#0089",
-      "image": "/swordshield/pokemon/small/089.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/089.png",
       "name": "Muk",
       "types": [
         "poison"
@@ -1881,7 +1881,7 @@
     },
     {
       "id": "#0090",
-      "image": "/swordshield/pokemon/small/090.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/090.png",
       "name": "Shellder",
       "types": [
         "water"
@@ -1902,7 +1902,7 @@
     },
     {
       "id": "#0091",
-      "image": "/swordshield/pokemon/small/091.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/091.png",
       "name": "Cloyster",
       "types": [
         "water",
@@ -1924,7 +1924,7 @@
     },
     {
       "id": "#0092",
-      "image": "/swordshield/pokemon/small/092.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/092.png",
       "name": "Gastly",
       "types": [
         "ghost",
@@ -1944,7 +1944,7 @@
     },
     {
       "id": "#0093",
-      "image": "/swordshield/pokemon/small/093.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/093.png",
       "name": "Haunter",
       "types": [
         "ghost",
@@ -1964,7 +1964,7 @@
     },
     {
       "id": "#0094",
-      "image": "/swordshield/pokemon/small/094.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/094.png",
       "name": "Gengar",
       "types": [
         "ghost",
@@ -1984,7 +1984,7 @@
     },
     {
       "id": "#0095",
-      "image": "/swordshield/pokemon/small/095.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/095.png",
       "name": "Onix",
       "types": [
         "rock",
@@ -2006,7 +2006,7 @@
     },
     {
       "id": "#0096",
-      "image": "/swordshield/pokemon/small/096.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/096.png",
       "name": "Drowzee",
       "types": [
         "psychic"
@@ -2027,7 +2027,7 @@
     },
     {
       "id": "#0097",
-      "image": "/swordshield/pokemon/small/097.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/097.png",
       "name": "Hypno",
       "types": [
         "psychic"
@@ -2048,7 +2048,7 @@
     },
     {
       "id": "#0098",
-      "image": "/swordshield/pokemon/small/098.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/098.png",
       "name": "Krabby",
       "types": [
         "water"
@@ -2069,7 +2069,7 @@
     },
     {
       "id": "#0099",
-      "image": "/swordshield/pokemon/small/099.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/099.png",
       "name": "Kingler",
       "types": [
         "water"
@@ -2090,7 +2090,7 @@
     },
     {
       "id": "#0100",
-      "image": "/swordshield/pokemon/small/100.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/100.png",
       "name": "Voltorb",
       "types": [
         "electric"
@@ -2111,7 +2111,7 @@
     },
     {
       "id": "#0101",
-      "image": "/swordshield/pokemon/small/101.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/101.png",
       "name": "Electrode",
       "types": [
         "electric"
@@ -2132,7 +2132,7 @@
     },
     {
       "id": "#0102",
-      "image": "/swordshield/pokemon/small/102.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/102.png",
       "name": "Exeggcute",
       "types": [
         "grass",
@@ -2153,7 +2153,7 @@
     },
     {
       "id": "#0103",
-      "image": "/swordshield/pokemon/small/103.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/103.png",
       "name": "Exeggutor",
       "types": [
         "grass",
@@ -2174,7 +2174,7 @@
     },
     {
       "id": "#0104",
-      "image": "/swordshield/pokemon/small/104.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/104.png",
       "name": "Cubone",
       "types": [
         "ground"
@@ -2195,7 +2195,7 @@
     },
     {
       "id": "#0105",
-      "image": "/swordshield/pokemon/small/105.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/105.png",
       "name": "Marowak",
       "types": [
         "ground"
@@ -2216,7 +2216,7 @@
     },
     {
       "id": "#0106",
-      "image": "/swordshield/pokemon/small/106.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/106.png",
       "name": "Hitmonlee",
       "types": [
         "fighting"
@@ -2237,7 +2237,7 @@
     },
     {
       "id": "#0107",
-      "image": "/swordshield/pokemon/small/107.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/107.png",
       "name": "Hitmonchan",
       "types": [
         "fighting"
@@ -2258,7 +2258,7 @@
     },
     {
       "id": "#0108",
-      "image": "/swordshield/pokemon/small/108.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/108.png",
       "name": "Lickitung",
       "types": [
         "normal"
@@ -2279,7 +2279,7 @@
     },
     {
       "id": "#0109",
-      "image": "/swordshield/pokemon/small/109.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/109.png",
       "name": "Koffing",
       "types": [
         "poison"
@@ -2300,7 +2300,7 @@
     },
     {
       "id": "#0110",
-      "image": "/swordshield/pokemon/small/110.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/110.png",
       "name": "Weezing",
       "types": [
         "poison"
@@ -2321,7 +2321,7 @@
     },
     {
       "id": "#0111",
-      "image": "/swordshield/pokemon/small/111.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/111.png",
       "name": "Rhyhorn",
       "types": [
         "ground",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": "#0112",
-      "image": "/swordshield/pokemon/small/112.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/112.png",
       "name": "Rhydon",
       "types": [
         "ground",
@@ -2365,7 +2365,7 @@
     },
     {
       "id": "#0113",
-      "image": "/swordshield/pokemon/small/113.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/113.png",
       "name": "Chansey",
       "types": [
         "normal"
@@ -2386,7 +2386,7 @@
     },
     {
       "id": "#0114",
-      "image": "/swordshield/pokemon/small/114.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/114.png",
       "name": "Tangela",
       "types": [
         "grass"
@@ -2407,7 +2407,7 @@
     },
     {
       "id": "#0115",
-      "image": "/swordshield/pokemon/small/115.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/115.png",
       "name": "Kangaskhan",
       "types": [
         "normal"
@@ -2428,7 +2428,7 @@
     },
     {
       "id": "#0116",
-      "image": "/swordshield/pokemon/small/116.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/116.png",
       "name": "Horsea",
       "types": [
         "water"
@@ -2449,7 +2449,7 @@
     },
     {
       "id": "#0117",
-      "image": "/swordshield/pokemon/small/117.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/117.png",
       "name": "Seadra",
       "types": [
         "water"
@@ -2470,7 +2470,7 @@
     },
     {
       "id": "#0118",
-      "image": "/swordshield/pokemon/small/118.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/118.png",
       "name": "Goldeen",
       "types": [
         "water"
@@ -2491,7 +2491,7 @@
     },
     {
       "id": "#0119",
-      "image": "/swordshield/pokemon/small/119.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/119.png",
       "name": "Seaking",
       "types": [
         "water"
@@ -2512,7 +2512,7 @@
     },
     {
       "id": "#0120",
-      "image": "/swordshield/pokemon/small/120.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/120.png",
       "name": "Staryu",
       "types": [
         "water"
@@ -2533,7 +2533,7 @@
     },
     {
       "id": "#0121",
-      "image": "/swordshield/pokemon/small/121.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/121.png",
       "name": "Starmie",
       "types": [
         "water",
@@ -2555,7 +2555,7 @@
     },
     {
       "id": "#0122",
-      "image": "/swordshield/pokemon/small/122.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/122.png",
       "name": "Mr. Mime",
       "types": [
         "psychic",
@@ -2577,7 +2577,7 @@
     },
     {
       "id": "#0123",
-      "image": "/swordshield/pokemon/small/123.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/123.png",
       "name": "Scyther",
       "types": [
         "bug",
@@ -2599,7 +2599,7 @@
     },
     {
       "id": "#0124",
-      "image": "/swordshield/pokemon/small/124.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/124.png",
       "name": "Jynx",
       "types": [
         "ice",
@@ -2621,7 +2621,7 @@
     },
     {
       "id": "#0125",
-      "image": "/swordshield/pokemon/small/125.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/125.png",
       "name": "Electabuzz",
       "types": [
         "electric"
@@ -2641,7 +2641,7 @@
     },
     {
       "id": "#0126",
-      "image": "/swordshield/pokemon/small/126.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/126.png",
       "name": "Magmar",
       "types": [
         "fire"
@@ -2661,7 +2661,7 @@
     },
     {
       "id": "#0127",
-      "image": "/swordshield/pokemon/small/127.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/127.png",
       "name": "Pinsir",
       "types": [
         "bug"
@@ -2682,7 +2682,7 @@
     },
     {
       "id": "#0128",
-      "image": "/swordshield/pokemon/small/128.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/128.png",
       "name": "Tauros",
       "types": [
         "normal"
@@ -2703,7 +2703,7 @@
     },
     {
       "id": "#0129",
-      "image": "/swordshield/pokemon/small/129.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/129.png",
       "name": "Magikarp",
       "types": [
         "water"
@@ -2723,7 +2723,7 @@
     },
     {
       "id": "#0130",
-      "image": "/swordshield/pokemon/small/130.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/130.png",
       "name": "Gyarados",
       "types": [
         "water",
@@ -2744,7 +2744,7 @@
     },
     {
       "id": "#0131",
-      "image": "/swordshield/pokemon/small/131.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/131.png",
       "name": "Lapras",
       "types": [
         "water",
@@ -2766,7 +2766,7 @@
     },
     {
       "id": "#0132",
-      "image": "/swordshield/pokemon/small/132.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/132.png",
       "name": "Ditto",
       "types": [
         "normal"
@@ -2786,7 +2786,7 @@
     },
     {
       "id": "#0133",
-      "image": "/swordshield/pokemon/small/133.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/133.png",
       "name": "Eevee",
       "types": [
         "normal"
@@ -2807,7 +2807,7 @@
     },
     {
       "id": "#0134",
-      "image": "/swordshield/pokemon/small/134.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/134.png",
       "name": "Vaporeon",
       "types": [
         "water"
@@ -2827,7 +2827,7 @@
     },
     {
       "id": "#0135",
-      "image": "/swordshield/pokemon/small/135.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/135.png",
       "name": "Jolteon",
       "types": [
         "electric"
@@ -2847,7 +2847,7 @@
     },
     {
       "id": "#0136",
-      "image": "/swordshield/pokemon/small/136.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/136.png",
       "name": "Flareon",
       "types": [
         "fire"
@@ -2867,7 +2867,7 @@
     },
     {
       "id": "#0137",
-      "image": "/swordshield/pokemon/small/137.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/137.png",
       "name": "Porygon",
       "types": [
         "normal"
@@ -2888,7 +2888,7 @@
     },
     {
       "id": "#0138",
-      "image": "/swordshield/pokemon/small/138.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/138.png",
       "name": "Omanyte",
       "types": [
         "rock",
@@ -2910,7 +2910,7 @@
     },
     {
       "id": "#0139",
-      "image": "/swordshield/pokemon/small/139.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/139.png",
       "name": "Omastar",
       "types": [
         "rock",
@@ -2932,7 +2932,7 @@
     },
     {
       "id": "#0140",
-      "image": "/swordshield/pokemon/small/140.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/140.png",
       "name": "Kabuto",
       "types": [
         "rock",
@@ -2954,7 +2954,7 @@
     },
     {
       "id": "#0141",
-      "image": "/swordshield/pokemon/small/141.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/141.png",
       "name": "Kabutops",
       "types": [
         "rock",
@@ -2976,7 +2976,7 @@
     },
     {
       "id": "#0142",
-      "image": "/swordshield/pokemon/small/142.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/142.png",
       "name": "Aerodactyl",
       "types": [
         "rock",
@@ -2998,7 +2998,7 @@
     },
     {
       "id": "#0143",
-      "image": "/swordshield/pokemon/small/143.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/143.png",
       "name": "Snorlax",
       "types": [
         "normal"
@@ -3019,7 +3019,7 @@
     },
     {
       "id": "#0144",
-      "image": "/swordshield/pokemon/small/144.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/144.png",
       "name": "Articuno",
       "types": [
         "ice",
@@ -3040,7 +3040,7 @@
     },
     {
       "id": "#0145",
-      "image": "/swordshield/pokemon/small/145.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/145.png",
       "name": "Zapdos",
       "types": [
         "electric",
@@ -3061,7 +3061,7 @@
     },
     {
       "id": "#0146",
-      "image": "/swordshield/pokemon/small/146.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/146.png",
       "name": "Moltres",
       "types": [
         "fire",
@@ -3082,7 +3082,7 @@
     },
     {
       "id": "#0147",
-      "image": "/swordshield/pokemon/small/147.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/147.png",
       "name": "Dratini",
       "types": [
         "dragon"
@@ -3102,7 +3102,7 @@
     },
     {
       "id": "#0148",
-      "image": "/swordshield/pokemon/small/148.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/148.png",
       "name": "Dragonair",
       "types": [
         "dragon"
@@ -3122,7 +3122,7 @@
     },
     {
       "id": "#0149",
-      "image": "/swordshield/pokemon/small/149.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/149.png",
       "name": "Dragonite",
       "types": [
         "dragon",
@@ -3143,7 +3143,7 @@
     },
     {
       "id": "#0150",
-      "image": "/swordshield/pokemon/small/150.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/150.png",
       "name": "Mewtwo",
       "types": [
         "psychic"
@@ -3163,7 +3163,7 @@
     },
     {
       "id": "#0151",
-      "image": "/swordshield/pokemon/small/151.png",
+      "image": "https://www.serebii.net/swordshield/pokemon/small/151.png",
       "name": "Mew",
       "types": [
         "psychic"
