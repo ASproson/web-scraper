@@ -1,4 +1,5 @@
 const { default: puppeteer } = require("puppeteer");
+const axios = require("axios");
 const fs = require("fs");
 
 const pokeWebScraper = async () => {
@@ -13,18 +14,21 @@ const pokeWebScraper = async () => {
     waitUntil: "domcontentloaded",
   });
 
-  const pokemon = await page.evaluate(() => {
+  const baseImageUrl = "https://www.serebii.net";
+
+  const pokemon = await page.evaluate((baseImageUrl) => {
     const pokemonTable = document.querySelector(".dextable");
     const pokemonList = Array.from(pokemonTable.querySelectorAll("tr"));
 
     const pokeInfo = pokemonList.map((row) => {
       const columns = Array.from(row.querySelectorAll(".fooinfo"));
 
-      // Check if columns exist and have the expected structure
       if (columns.length >= 5) {
         const id = columns[0].textContent.trim();
         const image =
           columns[1].querySelector("img")?.getAttribute("src") || "";
+        const imageUrl = image ? baseImageUrl + image : "";
+
         const name = columns[2].querySelector("a")?.textContent.trim() || "";
         const types = Array.from(columns[3].querySelectorAll("a img")).map(
           (type) => type.getAttribute("src").split("/").pop().split(".")[0]
@@ -40,7 +44,7 @@ const pokeWebScraper = async () => {
 
         return {
           id,
-          image,
+          image: imageUrl,
           name,
           types,
           abilities,
@@ -52,9 +56,10 @@ const pokeWebScraper = async () => {
       }
     });
 
-    return pokeInfo.filter((pokemon) => pokemon !== null); // Remove null entries
-  });
+    return pokeInfo.filter((pokemon) => pokemon !== null);
+  }, baseImageUrl);
 
+  // Save Pokemon information to a JSON file
   const pokemonTableObject = { table: [] };
   pokemonTableObject.table.push(...pokemon);
 
@@ -62,7 +67,7 @@ const pokeWebScraper = async () => {
     pokemonTableObject,
     null,
     2
-  ); // Indent with 2 spaces
+  );
 
   fs.writeFile(
     "pokemonList.json",
@@ -73,6 +78,21 @@ const pokeWebScraper = async () => {
       console.log("\n >>>> JSON file complete");
     }
   );
+
+  // Download images
+  for (const pokemonData of pokemon) {
+    const { id, image } = pokemonData;
+
+    try {
+      const response = await axios.get(image, { responseType: "arraybuffer" });
+      fs.writeFileSync(`images/${id}.png`, response.data, "binary");
+      console.log(`Downloaded image for Pokemon ${id}`);
+    } catch (error) {
+      console.error(
+        `Error downloading image for Pokemon ${id}: ${error.message}`
+      );
+    }
+  }
 
   await browser.close();
 };
