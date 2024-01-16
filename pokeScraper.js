@@ -2,7 +2,7 @@ const { default: puppeteer } = require("puppeteer");
 const axios = require("axios");
 const fs = require("fs");
 
-const pokeWebScraper = async () => {
+const pokeWebScraper = async (download = false) => {
   const browser = await puppeteer.launch({
     headless: true,
     defaultViewport: null,
@@ -79,18 +79,22 @@ const pokeWebScraper = async () => {
     }
   );
 
-  // Download images
-  for (const pokemonData of pokemon) {
-    const { id, image } = pokemonData;
+  if (download) {
+    // Download images
+    for (const pokemonData of pokemon) {
+      const { id, image } = pokemonData;
 
-    try {
-      const response = await axios.get(image, { responseType: "arraybuffer" });
-      fs.writeFileSync(`images/${id}.png`, response.data, "binary");
-      console.log(`Downloaded image for Pokemon ${id}`);
-    } catch (error) {
-      console.error(
-        `Error downloading image for Pokemon ${id}: ${error.message}`
-      );
+      try {
+        const response = await axios.get(image, {
+          responseType: "arraybuffer",
+        });
+        fs.writeFileSync(`images/${id}.png`, response.data, "binary");
+        console.log(`Downloaded image for Pokemon ${id}`);
+      } catch (error) {
+        console.error(
+          `Error downloading image for Pokemon ${id}: ${error.message}`
+        );
+      }
     }
   }
 
