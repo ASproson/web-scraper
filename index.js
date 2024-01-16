@@ -2,7 +2,7 @@ const { default: puppeteer } = require("puppeteer");
 
 const webScraper = async () => {
   const browser = await puppeteer.launch({
-    headless: true, // no browser view
+    headless: false, // no browser view
     defaultViewport: null, // ensure full w/h
   });
 
@@ -24,6 +24,8 @@ const webScraper = async () => {
   });
 
   console.log(quotes);
+
+  await page.click(".pager > .next > a");
 };
 
 webScraper();
