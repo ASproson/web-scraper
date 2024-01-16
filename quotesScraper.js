@@ -2,7 +2,7 @@ const { default: puppeteer } = require("puppeteer");
 
 const fs = require("fs");
 
-const webScraper = async (url, numberOfPages = 1) => {
+const quotesScraper = async (url, numberOfPages = 1) => {
   const browser = await puppeteer.launch({
     headless: true, // no browser view
     defaultViewport: null, // ensure full w/h
@@ -48,4 +48,4 @@ const webScraper = async (url, numberOfPages = 1) => {
   await browser.close();
 };
 
-webScraper(`http://quotes.toscrape.com/`);
+quotesScraper(`http://quotes.toscrape.com/`);
